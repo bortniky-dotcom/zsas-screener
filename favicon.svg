@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 124" width="100" height="124">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8f3644"/>
+      <stop offset="1" stop-color="#651f2b"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1d79c"/>
+      <stop offset="1" stop-color="#c39a54"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="124" fill="#0b1a33"/>
+  <path d="M14 10 H86 A3 3 0 0 1 89 13 V58 C89 86 68 103 50 111 C32 103 11 86 11 58 V13 A3 3 0 0 1 14 10 Z" fill="url(#s)" stroke="url(#g)" stroke-width="2"/>
+  <g fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round">
+    <circle cx="50" cy="8" r="4.2"/>
+    <line x1="50" y1="12.2" x2="50" y2="16"/>
+    <line x1="40" y1="16" x2="60" y2="16"/>
+  </g>
+  <text x="50" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" fill="url(#g)">Ю</text>
+  <g fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 104 C30 96 38 96 46 104 C54 112 62 112 70 104 C76 98 82 98 88 104"/>
+    <path d="M28 112 C35 106 42 106 48 112 C54 118 60 118 66 112 C72 106 78 106 84 112"/>
+  </g>
+</svg>

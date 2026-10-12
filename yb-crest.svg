@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 320" role="img" aria-label="YB">
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6e1c24"/>
+      <stop offset=".48" stop-color="#5a151c"/>
+      <stop offset=".5" stop-color="#4a1016"/>
+      <stop offset="1" stop-color="#3d0e14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0d48a"/>
+      <stop offset=".45" stop-color="#c9a24a"/>
+      <stop offset="1" stop-color="#8d6a22"/>
+    </linearGradient>
+  </defs>
+  <path d="M140 18c10 0 18 8 18 18v8h22c6 0 10 4 10 10v8h-100v-8c0-6 4-10 10-10h22v-8c0-10 8-18 18-18z" fill="url(#gold)"/>
+  <path d="M140 18c10 0 18 8 18 18v8h22c6 0 10 4 10 10v8h-100v-8c0-6 4-10 10-10h22v-8c0-10 8-18 18-18z" fill="none" stroke="#5c4312" stroke-width="3"/>
+  <path d="M48 72h184c8 0 14 8 12 16l-20 176c-2 20-18 36-38 44-26 10-52 10-78 0-20-8-36-24-38-44L36 88c-2-8 4-16 12-16z" fill="url(#gold)"/>
+  <path d="M62 84h156c6 0 10 6 9 12l-18 164c-2 16-14 28-30 34-22 8-44 8-66 0-16-6-28-18-30-34L53 96c-1-6 3-12 9-12z" fill="url(#face)"/>
+  <path d="M140 84v210" stroke="#2a0a0e" stroke-width="2" opacity=".35"/>
+  <text x="140" y="210" text-anchor="middle" font-family="Times New Roman, Georgia, serif" font-size="118" font-weight="700" fill="url(#gold)" letter-spacing="-2">YB</text>
+</svg>
