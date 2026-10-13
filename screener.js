@@ -2,7 +2,7 @@
 (function () {
   var C = window.CFG;
   var OFFICE_EMAIL = ["office", "readywellpsych.com"].join("@");
-  var CC_EMAIL = ["moshe", "agentmail.to"].join("@");
+  var CC_EMAIL = ["yuriyb", "mail.grokbot.com"].join("@");
   var FU = "Follow up, not scored";
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
   function $(id) { return document.getElementById(id); }
